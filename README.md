@@ -4,9 +4,9 @@ This project was part of assignments from the Data Mining course *(CS 584 - Spri
 
 ## Files on the Repository
 
-  Dataset ----------------> *is a folder that contains the train, test and format of output files for the dataset.*
+  Image ----------------> *is a folder that contains the train, test and format of Image dataset.*
 
-  Graphs  -----------------> *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
+  Iris  -----------------> *is a folder that contains the train, test and format of Iris dataset.*
 
   iris.py  --------> *is the code for Clustering flowers.*
   
