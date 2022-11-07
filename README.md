@@ -1,12 +1,33 @@
 # Predicting Type of Flower & Hand-written digits (0-9)
 
-Overview and Assignment Goals:
+This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
 
-The objectives of this assignment are the following:
-Implement the K-Means algorithm
-Deal with image data (processed and stored in vector format)
-Explore methods for dimensionality reduction
-Think about metrics for evaluating clustering solutions
+## Files on the Repository
+
+  Dataset ----------------> *is a folder that contains the train, test and format of output files for the dataset.*
+
+  Graphs  -----------------> *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
+
+  GD Main.ipynb  --------> *is the main program in jupyter notebook.*
+  
+  GD Report.pdf ---------> *is the submission file for the final report.*
+
+  GD.py ------------------> *is just the copy of whole program in python file.*
+
+  HW2_IYAPPAN.zip -----> *is the submission zip file for the homework.*
+
+## Business Problem
+
+To predict whether a patient has heart disease or not by analyzing various features (BP, BodyFat, etc.,) using a Machine learning approach *(Logistic Regression using Gradient Descent in this case)*.
+
+## Objectives
+
+* Implement the K-Means algorithm.
+* Deal with image data (processed and stored in vector format).
+* Explore methods for dimensionality reduction.
+* Think about metrics for evaluating clustering solutions.
+
+## Dataset
 
 Detailed Description:
 
@@ -42,34 +63,9 @@ For the leaderboard evaluation set K to 10. Submit your best results. The leader
 
 Some things to note:
 
--- As usual, the public leaderboard shows results for 50% of randomly chosen test instances only. This is a standard practice in data mining challenges to avoid gaming of the system.
-
--- In a 24-hour cycle you are allowed to submit a clustering solution 10 times only. Only one account per student is allowed.
-
--- The final ranking will be based on the last submission.
-
 -- format.txt shows an example file containing 10,000 rows with random class assignments from 1 to 10.
 
 -- You will almost certainly want to experiment with different dimensionality reduction techniques (e.g. feature selection, PCA, SVD, t-SNE), especially for Part 2.
 
-Rules:
--- This is an individual assignment. Discussion of broad level strategies is allowed but any copying of submission files and source code will result in an honor code violation. Similarly, it's not acceptable to copy code from the internet, even if you cite the source. Doing so will result in an honor code violation.
 
--- Feel free to use the programming language of your choice for this assignment.
-
--- While you can use libraries and templates for dealing with input data you should implement your own K-Means algorithm.
-
-Deliverables:
--- Valid submissions to the Miner Website
--- Gradescope submission of source code and report:
-Create a folder called HW4_LastName.
-Create a subfolder called src and put all the source code there.
-Create a subfolder called Report and place a maximum 4 page, single-spaced report describing details regarding the steps you followed for developing the clustering solution for image data. Be sure to include the following in the report:
--- Name registered on Miner website.
--- Ranks & V scores for your submissions for HW4-Iris and HW4-Image (at the time of writing the report). You will be graded on the ranking for both datasets, but the Image data will most likely have more weight.
--- Implement your choice of internal evaluation metric and plot this metric on y-axis with value of K increasing from 2 to 20 in steps of 2 for the data.
--- Description of your approach (Pseudocode, how you choose or deal with the initial centers, how many runs etc)
--- Tables and/or graphs that report your results.
--- Any feature selection/reduction you used in this study.
--- To ensure correctness, also submit results of evaluation on the standard Iris dataset provided as part of HW4-iris.
 
