@@ -8,13 +8,13 @@ This project was part of assignments from the Data Mining course *(CS 584 - Spri
 
   Graphs  -----------------> *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
 
-  GD Main.ipynb  --------> *is the main program in jupyter notebook.*
+  iris.py  --------> *is the code for Clustering flowers.*
+  
+  image.py ------------------> *is the code for predicting Hand-written digits.*
   
   GD Report.pdf ---------> *is the submission file for the final report.*
 
-  GD.py ------------------> *is just the copy of whole program in python file.*
-
-  HW2_IYAPPAN.zip -----> *is the submission zip file for the homework.*
+  HW4_IYAPPAN.zip -----> *is the submission zip file for the homework.*
 
 ## Business Problem
 
