@@ -12,7 +12,7 @@ This project was part of assignments from the Data Mining course *(CS 584 - Spri
   
   image.py ------------------> *is the code for predicting Hand-written digits.*
   
-  GD Report.pdf ---------> *is the submission file for the final report.*
+  K Means Clustering Report.pdf ---------> *is the submission file for the final report.*
 
   HW4_IYAPPAN.zip -----> *is the submission zip file for the homework.*
 
