@@ -4,13 +4,9 @@ This project was part of assignments from the Data Mining course *(CS 584 - Spri
 
 ## Files on the Repository
 
-  Image ----------------> *is a folder that contains the train, test and format of Image dataset.*
+  Image ----------------> * Folder that contains Dataset and Main Program for Clustering Hand-written digits.*
 
-  Iris  -----------------> *is a folder that contains the train, test and format of Iris dataset.*
-
-  iris.py  --------> *is the code for Clustering flowers.*
-  
-  image.py ------------------> *is the code for predicting Hand-written digits.*
+  Iris  -----------------> * Folder that contains Dataset and Main Program for Clustering Flowers.*
   
   K Means Clustering Report.pdf ---------> *is the submission file for the final report.*
 
