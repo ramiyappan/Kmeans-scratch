@@ -1,6 +1,6 @@
 # Files on this folder
 
-Elbow_iris --------> Elbow plot for K vs Within-Cluster Sum of Square(WCSS) to choose optimal K.
+Elbow_Iris.png --------> Elbow plot for K vs Within-Cluster Sum of Square(WCSS) to choose optimal K.
 
 format.txt --------> Example format for the output.
 
