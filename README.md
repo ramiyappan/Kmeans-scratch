@@ -1,7 +1,5 @@
 # Predicting Type of Flower & Hand-written digits (0-9)
 
-This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
-
 ## Files on the Repository
 
   Image ------------------------> *Folder that contains Dataset and Main Program for Clustering Hand-written digits.*
