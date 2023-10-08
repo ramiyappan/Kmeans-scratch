@@ -2,13 +2,13 @@
 
 ## Files on the Repository
 
-  Image ------------------------> *Folder that contains Dataset and Main Program for Clustering Hand-written digits.*
+  `Image` - *Folder that contains Dataset and Main Program for Clustering Hand-written digits.*
 
-  Iris  ---------------------------> *Folder that contains Dataset and Main Program for Clustering Flowers.*
+  `Iris`  - *Folder that contains Dataset and Main Program for Clustering Flowers.*
   
-  HW4_IYAPPAN.zip ----------------------> *is the submission zip file for the homework.*
+  `HW4_IYAPPAN.zip` - *is the submission zip file for the homework.*
   
-  K Means Clustering Report.pdf --------> *is the submission file for the final report.*
+  `K Means Clustering Report.pdf` - *is the submission file for the final report.*
 
 ## Business Problem
 
