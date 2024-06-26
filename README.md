@@ -1,4 +1,4 @@
-# Predicting Type of Flower & Hand-written digits (0-9)
+# Implementing KMeans from scratch
 
 ## Files on the Repository
 
