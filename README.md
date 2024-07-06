@@ -12,13 +12,6 @@ Use K-Means Clustering Algorithm to:
   - (1) Predict the type of flower, and, 
   - (2) Deal with Image data (pixels) to predict hand-written digits (0-9).
 
-## Objectives
-
-* Implement the K-Means Clustering algorithm.
-* Deal with image data (processed and stored in vector format).
-* Explore methods for dimensionality reduction.
-* Think about metrics for evaluating Clustering solutions.
-
 ## Dataset
 
 ### Flowers
